@@ -1,0 +1,56 @@
+
+Finish installing Visual Studio
+
+Install components needed for Building C and C++ apps
+
+deactivate vitual environment
+Close down this project and reopen it
+Activate vitual environment
+
+version control
+
+
+
+Vids
+------------
+Python Virtual Environments - Full Tutorial for Beginners
+https://www.youtube.com/watch?v=Y21OR1OPC9A
+How to Fix DLL Dependency Error
+https://www.youtube.com/watch?v=-ky896Qp1k8&t=127s
+How To Create & Activate A Virtual Environment In Visual Studio Code (Python 3.12)
+https://www.youtube.com/watch?v=hC5rfoIY8nU
+
+
+
+
+Terminal Commands
+--------------------------
+
+python --version
+
+# to exit python shell
+Ctrl + C 
+
+# pip install 
+pip3 install torch torchvision torchaudio # install torchy
+pip install torch
+
+
+
+
+# Virtual Environment
+# This is actually in CMD prompt and not PowerShell as I think there are some differences
+# Create a folder for venv settings inside the current folder
+python -m venv .venv
+# activate the virtual environment
+.venv\Scripts\activate.bat
+# deactivate
+deactivate
+
+# to create a listof requirements for the virual workspace to work for others cloning it
+pip freeze > requirements.txt
+
+# to install everything listed in the requirements.txt file
+pip install -r requirements.txt
+
+
