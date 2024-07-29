@@ -1,13 +1,4 @@
 
-Finish installing Visual Studio
-
-Install components needed for Building C and C++ apps
-
-deactivate vitual environment
-Close down this project and reopen it
-Activate vitual environment
-
-version control
 
 
 
@@ -26,6 +17,9 @@ https://www.youtube.com/watch?v=hC5rfoIY8nU
 Terminal Commands
 --------------------------
 
+python BlipTest.py
+
+
 python --version
 
 # to exit python shell
@@ -39,6 +33,7 @@ pip install torch
 
 
 # Virtual Environment
+----------------------
 # This is actually in CMD prompt and not PowerShell as I think there are some differences
 # Create a folder for venv settings inside the current folder
 python -m venv .venv
