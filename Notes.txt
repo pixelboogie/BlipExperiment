@@ -18,6 +18,7 @@ Terminal Commands
 --------------------------
 
 python BlipTest.py
+python Gradio.py
 
 
 python --version
