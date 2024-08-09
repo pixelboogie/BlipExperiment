@@ -8,8 +8,6 @@ Blip Experiment is an image captioning application built with Python. This app u
 - [Usage](#usage)
 - [Helpful Resources](#helpful-resources)
 - [Helpful Terminal Commands](#helpful-terminal-commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To set up this project locally, follow these steps:
