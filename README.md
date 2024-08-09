@@ -47,11 +47,11 @@ Once everything is set up, you can start using the application to generate capti
 ## Helpful Resources
 Here are some videos that might be helpful during development:
 
-    [Python Virtual Environments - Full Tutorial for Beginners](https://www.youtube.com/watch?v=Y21OR1OPC9A)
+    [Python Virtual Environments - Full Tutorial for Beginners](#https://www.youtube.com/watch?v=Y21OR1OPC9A)
 
-    [How to Fix DLL Dependency Error](https://www.youtube.com/watch?v=-ky896Qp1k8&t=127s)
+    [How to Fix DLL Dependency Error](#https://www.youtube.com/watch?v=-ky896Qp1k8)
 
-    [How To Create & Activate A Virtual Environment In Visual Studio Code (Python 3.12)](How To Create & Activate A Virtual Environment In Visual Studio Code (Python 3.12))
+    [How To Create & Activate A Virtual Environment In Visual Studio Code (Python 3.12)](#https://www.youtube.com/watch?v=hC5rfoIY8nU)
 
 
 ## Helpful Terminal Commands
